@@ -1,5 +1,7 @@
 # AGtagMenu
 
+Note: AGtagMenu is a fixed version of iiPixel Menu
+
 AGtagMenu is a **FREE** and **OPEN SOURCE** gorilla tag **MOD MENU**.
 AGtagMenu has over **700+ MODS** such as: Kick Gun, Attic Crash Gun, Lag Gun, Platforms, Guardian mods, and more!
 
