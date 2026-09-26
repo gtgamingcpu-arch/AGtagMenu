@@ -34,3 +34,10 @@ Q: How to enable AGtagMenu?
 A: Click 'Y' button on your controller or 'Q' on pc!
 
 **ENJOY!**
+
+
+Q: How to enable AGtagMenu?
+
+A: Click 'Y' button on your controller or 'Q' on pc!
+
+**ENJOY!**
