@@ -1,3 +1,5 @@
+uhhh idk if that's a real license...
+
 # AGtagMenu
 
 AGtagMenu is a **FREE** and **OPEN-SOURCE** gorilla tag **MOD MENU**.
