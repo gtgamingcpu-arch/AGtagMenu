@@ -1,0 +1,3 @@
+C:\Users\codef\VapezyyMenu\obj\Debug\netstandard2.1\iiMenu.csproj.AssemblyReference.cache
+C:\Users\codef\VapezyyMenu\obj\Debug\netstandard2.1\iiMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codef\VapezyyMenu\obj\Debug\netstandard2.1\iiMenu.csproj.CoreCompileInputs.cache
