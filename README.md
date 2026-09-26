@@ -1,4 +1,4 @@
-uhhh idk if that's a real license...
+Fixed version of Vapezyy Menu
 
 # AGtagMenu
 
