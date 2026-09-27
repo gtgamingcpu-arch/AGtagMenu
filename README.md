@@ -15,16 +15,20 @@ You must complete these steps:
 3. Restart or run your game and **ENJOY AGTAGMENU!**
 
 # FAQ
-
+<br>
 Q: Can I get banned using this mod menu?
 
 A: Yes, you can get banned, beacuse it`s illegal!
 
+<br>
+<br>
 
 Q: Is Utilla required to use AGtagMenu?
 
 A: No it is'nt required, but if you don't want be banned, use modded gamemodes!
 
+<br>
+<br>
 
 Q: Why is this look like [ii's stupid menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu)?
 
