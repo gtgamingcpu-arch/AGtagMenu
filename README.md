@@ -1,5 +1,7 @@
 Fixed version of Vapezyy Menu
 
+![Github All Releases](https://img.shields.io/github/downloads/gtgamingcpu-arch/AGtagMenu/total.svg)
+
 # AGtagMenu
 
 AGtagMenu is a **FREE** and **OPEN-SOURCE** gorilla tag **MOD MENU**.
@@ -28,13 +30,8 @@ Q: Why is this look like [ii's stupid menu](https://github.com/iiDk-the-actual/i
 
 A: Its beacuse AGtagMenu is a reworked version of [ii's stupid menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu)!
 
-
-Q: How to enable AGtagMenu?
-
-A: Click 'Y' button on your controller or 'Q' on pc!
-
-**ENJOY!**
-
+<br>
+<br>
 
 Q: How to enable AGtagMenu?
 
